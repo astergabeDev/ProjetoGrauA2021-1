@@ -1,0 +1,48 @@
+C:\Users\gabe\Desktop\Trabalhos\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.exe
+C:\Users\gabe\Desktop\Trabalhos\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.deps.json
+C:\Users\gabe\Desktop\Trabalhos\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.runtimeconfig.json
+C:\Users\gabe\Desktop\Trabalhos\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.runtimeconfig.dev.json
+C:\Users\gabe\Desktop\Trabalhos\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.dll
+C:\Users\gabe\Desktop\Trabalhos\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\ref\Trabalho Prático do Grau A.dll
+C:\Users\gabe\Desktop\Trabalhos\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.pdb
+C:\Users\gabe\Desktop\Trabalhos\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.csprojAssemblyReference.cache
+C:\Users\gabe\Desktop\Trabalhos\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabe\Desktop\Trabalhos\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.AssemblyInfoInputs.cache
+C:\Users\gabe\Desktop\Trabalhos\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.AssemblyInfo.cs
+C:\Users\gabe\Desktop\Trabalhos\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.csproj.CoreCompileInputs.cache
+C:\Users\gabe\Desktop\Trabalhos\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.dll
+C:\Users\gabe\Desktop\Trabalhos\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\ref\Trabalho Prático do Grau A.dll
+C:\Users\gabe\Desktop\Trabalhos\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.pdb
+C:\Users\gabe\Desktop\Trabalhos\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.genruntimeconfig.cache
+C:\Users\gabe\Desktop\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.exe
+C:\Users\gabe\Desktop\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.deps.json
+C:\Users\gabe\Desktop\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.runtimeconfig.json
+C:\Users\gabe\Desktop\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.runtimeconfig.dev.json
+C:\Users\gabe\Desktop\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.dll
+C:\Users\gabe\Desktop\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\ref\Trabalho Prático do Grau A.dll
+C:\Users\gabe\Desktop\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.pdb
+C:\Users\gabe\Desktop\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.csprojAssemblyReference.cache
+C:\Users\gabe\Desktop\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabe\Desktop\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.AssemblyInfoInputs.cache
+C:\Users\gabe\Desktop\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.AssemblyInfo.cs
+C:\Users\gabe\Desktop\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.csproj.CoreCompileInputs.cache
+C:\Users\gabe\Desktop\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.dll
+C:\Users\gabe\Desktop\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\ref\Trabalho Prático do Grau A.dll
+C:\Users\gabe\Desktop\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.pdb
+C:\Users\gabe\Desktop\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.genruntimeconfig.cache
+E:\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.exe
+E:\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.deps.json
+E:\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.runtimeconfig.json
+E:\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.runtimeconfig.dev.json
+E:\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.dll
+E:\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\ref\Trabalho Prático do Grau A.dll
+E:\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\bin\Debug\net5.0\Trabalho Prático do Grau A.pdb
+E:\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.csprojAssemblyReference.cache
+E:\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.AssemblyInfoInputs.cache
+E:\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.AssemblyInfo.cs
+E:\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.csproj.CoreCompileInputs.cache
+E:\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.dll
+E:\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\ref\Trabalho Prático do Grau A.dll
+E:\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.pdb
+E:\Trabalhos\Fundamentos de Programação\Trabalho Prático do Grau A\Trabalho Prático do Grau A\obj\Debug\net5.0\Trabalho Prático do Grau A.genruntimeconfig.cache
